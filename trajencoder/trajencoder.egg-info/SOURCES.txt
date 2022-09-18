@@ -1,0 +1,17 @@
+README.md
+setup.py
+trajencoder.egg-info/PKG-INFO
+trajencoder.egg-info/SOURCES.txt
+trajencoder.egg-info/dependency_links.txt
+trajencoder.egg-info/requires.txt
+trajencoder.egg-info/top_level.txt
+trajencoder/bspline/accquintic.py
+trajencoder/bspline/bspline.py
+trajencoder/dmp/canonical_system.py
+trajencoder/dmp/dmp.py
+trajencoder/dmp/utils.py
+trajencoder/flexdmp/canonical_system.py
+trajencoder/flexdmp/flexdmp.py
+trajencoder/flexdmp/flexdmp_nnforcing.py
+trajencoder/flexdmp/utils.py
+trajencoder/vae/networks.py

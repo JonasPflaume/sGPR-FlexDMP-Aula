@@ -1,0 +1,3 @@
+aula
+dnewton
+optimization_algorithms

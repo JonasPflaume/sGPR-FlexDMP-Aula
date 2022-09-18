@@ -1,0 +1,16 @@
+setup.py
+algpr/entropy_maximizor.py
+algpr/gpoegpr.py
+algpr/gpr.py
+algpr/hyperparameter.py
+algpr/kernels.py
+algpr/mulinfo_maximizor.py
+algpr/ppgpr.py
+algpr/trainer.py
+algpr/utils.py
+algpr/vigpr.py
+algpr.egg-info/PKG-INFO
+algpr.egg-info/SOURCES.txt
+algpr.egg-info/dependency_links.txt
+algpr.egg-info/requires.txt
+algpr.egg-info/top_level.txt
